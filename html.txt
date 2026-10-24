@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tech+ | Tecnologia e Inovação</title>
+<link rel="stylesheet" href="css.css">
+</head>
+<body>
+
+<div class="pagina">
+    <header>
+        <div class="logo">
+            <img src="tech+.png" alt="">
+        </div>
+
+        <div class="informacao">
+            <h3>Tecnologia 💻</h3>
+        </div>
+
+        <div class="informacao">
+            <h3>Inovação 🚀</h3>
+        </div>
+    </header>
+    <nav class="menu">
+        <a href="#">Início</a>
+        <a href="#">Notícias</a>
+        <a href="#">Celulares</a>
+        <a href="#">Computadores</a>
+    </nav>
+    <main>
+        <div class="imagem">
+            <img src="games.png" alt="Imagem sobre games">
+        </div>
+
+        <div class="texto">
+            <h2>Bem-vindo à Tech+!</h2>
+
+            <p>
+                O mundo dos games está sempre evoluindo, trazendo
+                novas experiências, personagens e desafios.
+                Aqui você encontra informações, dicas e novidades
+                sobre os principais jogos da atualidade.
+            </p>
+        </div>
+    </main>
+    <footer>
+
+        <div class="coluna">
+            <h3>Links úteis</h3>
+            <a href="https://canaltech.com.br/" target="_blank">
+                Notícias de tecnologia
+            </a>
+        </div>
+
+        <div class="coluna">
+            <h3>Fale conosco</h3>
+            <p>contato@techmais.com</p>
+        </div>
+
+        <div class="coluna">
+            <h3>Redes sociais</h3>
+            <p>📸 @techmaisbr</p>
+            <p>🎮 Tech+ Brasil</p>
+        </div>
+
+    </footer>
+
+</div>
+
+
+</body>
+</html>
